@@ -1,26 +1,26 @@
 body {
-  background-color: #f2f2f2; /* light gray */
-  color: #1a1a1a; /* dark gray text */
+  background-color: #f2f2f2; 
+  color: #1a1a1a; 
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  text-align: center; /* centers headings + text */
+  text-align: center; 
 }
 
 h1 {
-  background-color: #d35400; /* bold orange */
-  color: #fff; /* white text */
+  background-color: #d35400; 
+  color: #fff; 
   padding: 20px;
   margin: 0;
   border-radius: 0 0 8px 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* drop shadow */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3); 
 }
 
 h3 {
-  color: #7d3c00; /* rich brown */
+  color: #7d3c00; 
   margin-top: 40px;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* subtle shadow */
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2); 
 }
 
 p {
@@ -29,7 +29,7 @@ p {
   background: white;
   padding: 15px;
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15); /* card shadow */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15); 
 }
 
 footer {
