@@ -1,7 +1,10 @@
-## Reflection
+# Assignment 2 Reflection
 
-This is my reflection for this week’s project update.  
+## How are you doing?
+I’m doing pretty good. This project helped me practice linking multiple pages together, and it felt easier after doing the first assignment.
 
-Even though I didn’t get direct peer feedback, I noticed that a lot of people talk about using spacing and shadows to make their pages easier to read. I decided to take that idea and apply it to my own project by centering all of my content and adding drop shadows to the headers and text boxes. This gave my site more depth and made it feel more polished.  
+## Can I do anything specifically to help you inside and/or outside of class?
+Maybe just more examples of CSS tricks for layout (like spacing and aligning). That always helps me see what’s possible.
 
-I chose to use these changes because they really helped with readability and made the overall design feel less flat. The centered layout keeps everything organized, and the shadows make the text stand out without being distracting. Even though the idea didn’t come from direct feedback to me, it was still inspired by what I saw working well for others, and it made my project stronger.  
+## How did this module go for you?
+It went well! I enjoyed adding new pages and trying out different styles. It’s cool seeing how CSS can really change the look and feel of a website.
